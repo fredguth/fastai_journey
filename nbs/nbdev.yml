@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai_journey"
+  site-url: "https://fredguth.github.io/fastai_journey"
+  description: "A nbdev based blog of my journey with Fastai"
+  repo-branch: main
+  repo-url: "https://github.com/fredguth/fastai_journey"
